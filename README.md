@@ -1,2 +1,5 @@
-# TempusMundi
-"Mastery of time beckons in Minecraft's realms with TempusMundi. Bend day-night cycles, accelerate or restore time flow—forge your world's destiny."
+# TempusMundi | English Description
+"Experience the power to control time within the virtual realms of Minecraft with TempusMundi. This plugin empowers players to bend the fabric of time, allowing them to manipulate the cycle of day and night, accelerate or decelerate time, and restore the natural flow of the world. Embark on a journey of temporal mastery and reshape your in-game environment, all at your command. Unleash the possibilities of time manipulation in Minecraft with TempusMundi."
+
+# TempusMundi | Traduzione Italiana
+"Vivi il potere di controllare il tempo all'interno dei regni virtuali di Minecraft con TempusMundi. Questo plugin dà ai giocatori la capacità di piegare la trama del tempo, consentendo loro di manipolare il ciclo giorno-notte, accelerare o rallentare il tempo e ripristinare il flusso naturale del mondo. Intraprendi un viaggio di padronanza temporale e rimodella il tuo ambiente di gioco, tutto al tuo comando. Libera le possibilità della manipolazione temporale in Minecraft con TempusMundi."
